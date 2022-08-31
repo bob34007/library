@@ -19,7 +19,7 @@ import (
 
 	"github.com/go-sql-driver/mysql"
 	"github.com/pingcap/errors"
-	"github.com/studygo/class3/util"
+	//"github.com/studygo/class3/util"
 	//"os"
 )
 
